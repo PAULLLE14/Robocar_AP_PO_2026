@@ -1,0 +1,12 @@
+{
+    "speeds": {
+        "forward": 25,
+        "turn": 20
+    },
+
+    "sensor_pins": {
+        "left": 23,
+        "middle": 15,
+        "right": 14
+    }
+}
